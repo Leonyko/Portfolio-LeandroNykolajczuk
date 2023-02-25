@@ -25,7 +25,7 @@ body {
   margin-top: -7px;
 }
 .brand span {
-  color: aqua;
+  color: #00ffff;
 }
 .menu {
   display: flex;
@@ -43,12 +43,12 @@ body {
 }
 
 .menu li:hover a{
-  background-color: aqua;
+  background-color: #00ffff;
   color: #191c32;
 }
 
 .menu .active {
-  color: aqua;
+  color: #00ffff;
  
 }
 
@@ -77,7 +77,7 @@ body {
 }
 
 .main img {
-  border:  7px solid aqua;
+  border:  7px solid #00ffff;
   width: 350px;
   height: 420px;
   min-height: 300px;
@@ -91,7 +91,7 @@ h1 {
 }
 
 .info-content span {
-  color: aqua;
+  color: #00ffff;
 }
 
 .download-cv,
@@ -112,7 +112,7 @@ h1 {
 .download-cv:hover,
 .project-details-button:hover,
 .btn-submit:hover {
-  background-color: azure;
+  background-color: #f0ffff;
   box-shadow: none;
 }
 
@@ -141,7 +141,7 @@ h1 {
 .divider {
   height: 4px;
   width: 60px;
-  background-color: aqua;
+  background-color: #00ffff;
   margin-top: 5px;
   margin-bottom: 2em;
 }
@@ -270,7 +270,7 @@ h1 {
   width: 100vw;
   height: 200px;
   padding: 2em;
-  background-color: aqua;
+  background-color: #00ffff;
 }
 
 .footer-content h2 {
@@ -413,7 +413,7 @@ h1 {
   width: 100vw;
   height: 200px;
   padding: 2em;
-  background-color: aqua;
+  background-color: #00ffff;
 }
 
 .footer-content h2 {
