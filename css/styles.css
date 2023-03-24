@@ -335,12 +335,7 @@ h1 {
   background-size: cover;
 }
 
-.card__img1 {
-  width: 100%;
-  height: 150px;
-  background-image: url(../img/app-clima.png);
-  background-size: cover;
-}
+
 
 .card__title {
   padding: 20px;
